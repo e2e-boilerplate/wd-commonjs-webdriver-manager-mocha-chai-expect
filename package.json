@@ -38,7 +38,6 @@
     "expect",
     "integration test",
     "mocha",
-    "selenium-webdriver",
     "wd",
     "webdriver manager"
   ],
