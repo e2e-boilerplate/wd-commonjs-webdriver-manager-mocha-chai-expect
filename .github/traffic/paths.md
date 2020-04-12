@@ -1,7 +1,7 @@
 | referrer                                                                                          | count | uniques |
 | :------------------------------------------------------------------------------------------------ | :---- | :------ |
-| /e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-expect                                  | 6     | 1       |
-| /e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-expect/actions                          | 2     | 1       |
+| /e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-expect                                  | 7     | 1       |
+| /e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-expect/actions                          | 3     | 1       |
 | /e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-expect/blob/master/spec/sandbox.spec.js | 2     | 1       |
 | /e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-expect/actions/runs/73984395            | 1     | 1       |
 | /e2e-boilerplate/wd-commonjs-webdriver-manager-mocha-chai-expect/edit/master/spec/sandbox.spec.js | 1     | 1       |
